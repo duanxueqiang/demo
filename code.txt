@@ -15,16 +15,16 @@ public void update(SpuBo spu) {
     http://myzx.pdlyi.com   
     国内线路2
     http://myzx.69mw7p.com  
-    http://myzx.cnp2yo.com   
+    http://myzx.cnp2yo.com  asdadsadadadasdadasdads 
     http://myzx.1x346.com   
-    
-    
-    
+
+
+​    
     sdfasfad
-    
-    
-    
+
+​    
+​    
     sdfasdfa
-    
+
     app下载链接  http://appdown.hezubar.com/mayazhixing_download/
 }
