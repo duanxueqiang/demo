@@ -1,0 +1,23 @@
+@Transactional
+public void update(SpuBo spu) {
+
+    国际域名:
+    http://em.myzxyule1.com
+    http://em.myzxyule2.com
+    http://em.myzxyule3.com
+    http://em.myzxyule4.com
+    http://em.myzxyule5.com
+    http://em.myzxyule6.com
+    
+    国内线路1:
+    myzx.495b41.com  
+    myzx.b5162y.com   
+    http://myzx.pdlyi.com   
+    国内线路2
+    http://myzx.69mw7p.com  
+    http://myzx.cnp2yo.com   
+    http://myzx.1x346.com   
+    
+    
+    app下载链接  http://appdown.hezubar.com/mayazhixing_download/
+}
