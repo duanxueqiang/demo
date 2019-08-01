@@ -19,5 +19,12 @@ public void update(SpuBo spu) {
     http://myzx.1x346.com   
     
     
+    
+    sdfasfad
+    
+    
+    
+    sdfasdfa
+    
     app下载链接  http://appdown.hezubar.com/mayazhixing_download/
 }
