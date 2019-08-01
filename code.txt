@@ -6,7 +6,16 @@ public void update(SpuBo spu) {
     http://em.myzxyule2.com
     http://em.myzxyule3.com
     http://em.myzxyule4.com
-    http://em.myzxyule5.com
+    http://em.myzxyule5.com 
+    sdasd 
+    asda 
+    adsada
+    asda
+    
+    asd 
+    
+    asd 
+    
     http://em.myzxyule6.com
     
     国内线路1:
